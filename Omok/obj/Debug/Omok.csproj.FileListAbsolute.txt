@@ -1,0 +1,9 @@
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\bin\Debug\Omok.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\bin\Debug\Omok.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\bin\Debug\Omok.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\obj\Debug\Omok.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\obj\Debug\Omok.Form1.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\obj\Debug\Omok.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\obj\Debug\Omok.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\obj\Debug\Omok.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Omok\Omok\obj\Debug\Omok.pdb
